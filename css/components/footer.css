@@ -1,0 +1,20 @@
+.footer {
+  background-color: #2C2B2B;
+  height: 150px;
+  color: white;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.footer h3 i {
+  color: #1DDD87;
+  font-size: 40px;
+  margin: 10px;
+}
+
+.footer p i {
+  color: red;
+}
